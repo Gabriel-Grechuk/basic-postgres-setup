@@ -6,8 +6,10 @@
 
 ## Usage
 ### To start the postgres
-Just need to run the `run.sh` script.
+Clone the repo and run the script `./run.sh`
 ``` shell
+$ git clone https://github.com/Gabriel-Grechuk/basic-postgres-setup.git
+$ cd basic-postgres-setup
 $ ./run.sh
 ```
 or, if it requires permissions
